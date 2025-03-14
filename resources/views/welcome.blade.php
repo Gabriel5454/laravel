@@ -19,6 +19,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   class="w3-bar-item w3-button">Close Menu</a>
   <a href="#food" onclick="w3_close()" class="w3-bar-item w3-button">Food</a>
   <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">About</a>
+  <a href="layout/admin.blade.php" class="w3-bar-item w3-button">cadastro</a>
 </nav>
 
 <!-- Top menu -->
